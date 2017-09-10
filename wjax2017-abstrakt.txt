@@ -1,0 +1,7 @@
+Das JavaScript-Ökosystem: Orientierungshilfen
+
+Wer heutzutage professionelle Webanwendungen bauen will, kommt an JavaScript nicht vorbei. Für viele Nicht-JavaScript-Entwickler ist diese Vorstellung aber immer noch ein Graus, so kursieren immer noch Aussagen wie: JavaScript hat kein Typsystem, erlaubt kein Refactoring und ist unwartbar! Die durchschnittliche Lebensdauer eines JavaScript-Frameworks liegt unter zwei Tagen (außerdem gibt es viel zu viele davon!) und überhaupt: Warum ist "undefined not a function"?In dieser Session werden wir uns moderne JavaScript-Stacks ansehen, um zu überprüfen, wie viel von diesen Aussagen heutzutage noch stimmt, und eine Orientierung durch das auf den ersten Blick schier undurchschaubare JavaScript-Ökosystem zu bekommen. Damit es beim nächsten Projekt vielleicht heißt: "Hurra, ich darf JavaScript programmieren!"
+
+https://jax.de/web-development-javascript/das-javascript-oekosystem-orientierungshilfen/
+
+Dauer: eine Stunde
